@@ -1,0 +1,18 @@
+{
+  "name": "Moon Phase Viewer",
+  "short_name": "Moon Phases",
+  "description": "Interactive moon phase viewer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
